@@ -6,8 +6,6 @@ I'm always eager to expand my knowledge and skills in the world of software deve
 
 - 🌱 I’m currently learning and expanding the skills and knowledge i have in Python, Java, R and Web Developement
 
-- 💞️ I’m looking to collaborate on any and everything
-
 - 📫 Here's my linkedin!: https://www.linkedin.com/in/aalyahjohnson/
 
 
